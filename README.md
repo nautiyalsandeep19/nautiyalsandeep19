@@ -11,7 +11,8 @@ I’m a passionate developer skilled in building modern, scalable, and responsiv
 - **Languages**: JavaScript (ES6+), Java, HTML5, CSS3  
 - **Frontend**: React.js, Tailwind CSS, Bootstrap, Shadcn/ui  
 - **Backend**: Node.js, Express.js  
-- **Database / Caching **: MongoDB , Redis
+- **Database **: MongoDB 
+- **Caching **:  Redis
 - **Tools & Platforms**: Git, GitHub, Docker, Postman, VS Code  
 
 ---
