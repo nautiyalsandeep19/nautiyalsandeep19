@@ -18,7 +18,7 @@ I’m a passionate developer skilled in building modern, scalable, and responsiv
 
 ## 💼 Work Experience  
 
-- **Full-Stack Developer** @ Rekruters *(Noida, Uttar Pradesh)*  
+- **Full-Stack Developer** @ DigiHub Solutions *(Uttarakhand)*  
   - Built production-ready client projects using MERN stack.  
   - Delivered responsive dashboards and admin panels for better operations.  
 
