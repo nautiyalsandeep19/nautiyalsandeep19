@@ -19,9 +19,6 @@ I’m a passionate developer skilled in building modern, scalable, and responsiv
 
 ## 💼 Work Experience  
 
-- **Full-Stack Developer** @ DigiHub Solutions *(Uttarakhand)*  
-  - Built production-ready client projects using MERN stack.  
-  - Delivered responsive dashboards and admin panels for better operations.  
 
 - **Frontend Developer** @ Bhayat Foundation *(Remote)*  
   - Designed and developed the NGO website using React.js & Tailwind CSS.  
