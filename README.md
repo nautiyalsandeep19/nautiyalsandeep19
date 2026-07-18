@@ -1,60 +1,197 @@
-# Hi there 👋 I'm Sandeep Nautiyal  
+# Hi there 👋 I'm Sandeep Nautiyal
 
-🚀 **Full Stack Developer | MERN Stack Enthusiast | Problem Solver**  
+🚀 **Full Stack Web Developer | MERN Stack Developer | 1+ Years of Experience**
 
-I’m a passionate developer skilled in building modern, scalable, and responsive web applications using the **MERN stack**. With hands-on experience in both frontend and backend, I enjoy creating seamless user experiences while ensuring robust backend architecture.  
-
----
-
-## 🛠️ Tech Stack  
-
-- **Languages**: JavaScript (ES6+), Java, HTML5, CSS3  
-- **Frontend**: React.js, Tailwind CSS, Bootstrap, Shadcn/ui  
-- **Backend**: Node.js, Express.js  
-- **Database **: MongoDB 
-- **Caching **:  Redis
-- **Tools & Platforms**: Git, GitHub, Docker, Postman, VS Code  
+I'm a passionate Full Stack Web Developer with **1+ years of experience** building scalable, responsive, and modern web applications. I specialize in the **MERN Stack** and enjoy developing clean user interfaces, secure backend APIs, and high-performance applications following industry best practices.
 
 ---
 
-## 💼 Work Experience  
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+- JavaScript (ES6+)
+- TypeScript
 
-- **Frontend Developer** @ Bhayat Foundation *(Remote)*  
-  - Designed and developed the NGO website using React.js & Tailwind CSS.  
-  - Integrated APIs and donation/event management modules with Node.js & MongoDB.  
+### 🎨 Frontend
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Shadcn/UI
+- Responsive Web Design
 
-- **Web Developer Intern** @ Dezka Technical Solution *(Rishikesh, Uttarakhand)*  
-  - Worked on full-stack projects using JavaScript, PHP, and MySQL.  
-  - Implemented authentication and interactive modules for business apps.  
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Middleware
+- Role-Based Access Control (RBAC)
+
+### 🗄️ Database & Caching
+- MongoDB
+- Redis
+
+### 🚀 Tools & Platforms
+- Git
+- GitHub
+- Postman
+- VS Code
+- Docker
+- Vercel
+- Netlify
+- Render
+
+---
+
+## 💼 Work Experience
+
+### 👨‍💻 Junior Full Stack Developer
+**SNSBB Telemedia Private Limited** *(April 2025 – Present)*  
+📍 Ahmedabad, Gujarat
+
+- Develop scalable full-stack web applications using **React.js, TypeScript, Node.js, Express.js, and MongoDB**.
+- Build reusable and responsive UI components following modern development practices.
+- Design and integrate RESTful APIs.
+- Implement JWT Authentication and Role-Based Access Control (RBAC).
+- Optimize application performance and resolve production issues.
+- Collaborate with cross-functional teams using Git/GitHub and Agile methodologies.
 
 ---
 
-## 📂 Featured Projects  
+### 👨‍💻 Full Stack Developer Intern
+**REKRUTERS** *(Jan 2025 – Mar 2025)*  
+📍 Noida, Uttar Pradesh
 
-- **[NGO Web Application](https://github.com/nautiyalsandeep19)**  
-  Full-stack platform with donation & event management (React.js, Node.js, Express.js, MongoDB, Razorpay API, Nodemailer).  
-
-- **[Doctor Appointment Web App](https://stay-healthy12.netlify.app/)** | [GitHub](https://github.com/nautiyalsandeep19)  
-  Appointment booking system with authentication & dashboards.  
-
-- **[E-Commerce Web App](https://refillstore.netlify.app/)** | [GitHub](https://github.com/nautiyalsandeep19/E-Commerce_Website)  
-  Responsive shopping platform with cart, checkout & reusable components.  
+- Developed full-stack web applications using React.js, Node.js, Express.js, and MongoDB.
+- Built responsive user interfaces and integrated REST APIs.
+- Implemented CRUD operations, authentication, and form validation.
 
 ---
 
-## 🎓 Education  
+### 💻 Web Developer Intern
+**Dezka Technical Solution** *(Aug 2022 – Apr 2023)*  
+📍 Rishikesh, Uttarakhand
 
-- **Master of Computer Applications (MCA)** – Graphic Era Hill University (2023–2025)  
-- **Bachelor of Computer Applications (BCA)** – HNBGU (2020–2023)  
+- Developed responsive web applications using HTML, CSS, JavaScript, PHP, and MySQL.
+- Built authentication systems and CRUD-based business applications.
+- Worked on client and internal development projects.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Erovians – B2B Business Management Platform
+
+A scalable business management platform built with the MERN Stack.
+
+**Key Features**
+- RESTful APIs
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Email OTP Verification
+- Responsive Dashboard
+- Secure Backend Architecture
+
+**Tech Stack**
+- React.js
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
 
 ---
 
-## 📫 Connect with Me  
+### ❤️ Non-Profit Organization Management System
 
-- 📧 Email: [sandeepnautiyal7811@gmail.com](mailto:sandeepnautiyal7811@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sandeep-nautiyal108](https://www.linkedin.com/in/sandeep-nautiyal108)  
-- 💻 GitHub: [github.com/nautiyalsandeep19](https://github.com/nautiyalsandeep19)  
+A production-ready NGO management platform.
+
+**Key Features**
+- Donation Management
+- Razorpay Payment Integration
+- Event Management
+- REST API Integration
+- Brevo Email Notifications
+- Responsive Admin Dashboard
+
+**Tech Stack**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Razorpay
+- Brevo
 
 ---
-✨ Always open to collaborating on **MERN stack projects** and building impactful applications!
+
+### 🩺 Doctor Appointment Web App
+
+🔗 **Live Demo:** https://stay-healthy12.netlify.app/
+
+A healthcare platform for online doctor appointment booking with authentication and user dashboards.
+
+---
+
+### 🛒 E-Commerce Web Application
+
+🔗 **Live Demo:** https://refillstore.netlify.app/
+
+A responsive shopping platform featuring reusable components, cart management, and checkout functionality.
+
+---
+
+## 🎓 Education
+
+### 🎓 Master of Computer Applications (MCA)
+**Graphic Era Hill University**
+📍 Dehradun, Uttarakhand
+
+**CGPA:** 7.88/10  
+**2023 – 2025**
+
+---
+
+### 🎓 Bachelor of Computer Applications (BCA)
+**Hemvati Nandan Bahuguna Garhwal University (HNBGU)**
+📍 Rishikesh, Uttarakhand
+
+**CGPA:** 6.75/10  
+**2020 – 2023**
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email:** sandeepnautiyal7811@gmail.com
+
+📱 **Phone:** +91-7078117069
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/sandeep-nautiyal108
+
+💻 **GitHub:**  
+https://github.com/nautiyalsandeep19
+
+📍 **Location:** Ahmedabad, Gujarat, India
+
+---
+
+## 🌟 Currently Working On
+
+- Full Stack MERN Applications
+- TypeScript Development
+- Scalable REST APIs
+- Authentication & Authorization
+- Redis Caching
+- Performance Optimization
+- Clean Architecture
+- Production-ready Web Applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on **Full Stack Development**, **MERN Stack Projects**, **Open Source Contributions**, and exciting software engineering opportunities.
+
+⭐ If you like my work, don't forget to **Star** my repositories!
